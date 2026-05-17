@@ -1,0 +1,8 @@
+Dạ thưa thầy cô chấm thi. 
+Em đã làm bài rất chăm chỉ và push thường xuyên lên git/githup...
+nhưng... ngày hôm nay, em đã tạo folder thisis để chứa database.
+sẵn em bỏ vào video thuyết trình luôn.
+Và thế là git bị treo... do video lớn quá... mà không có database thì sao thầy cô xem trang web được.
+nên em đã làm theo cách chatgpt chỉ... cuối cùng.
+Em đã mất hết lịch sử commit.
+Em xin lỗi thầy cô vì kiến thức nông cạn về git/githup ạ!
